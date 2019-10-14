@@ -10,7 +10,7 @@
 
 declare(strict_types=1);
 
-namespace Opulence\Authorization\TestsTemp\Permissions;
+namespace Opulence\Authorization\Tests\Permissions;
 
 use Opulence\Authorization\Permissions\PermissionRegistry;
 

@@ -10,7 +10,7 @@
 
 declare(strict_types=1);
 
-namespace Opulence\Authorization\TestsTemp;
+namespace Opulence\Authorization\tests;
 
 use Opulence\Authorization\Authority;
 use Opulence\Authorization\IAuthority;

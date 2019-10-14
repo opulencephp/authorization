@@ -10,7 +10,7 @@
 
 declare(strict_types=1);
 
-namespace Opulence\Authorization\TestsTemp\Roles;
+namespace Opulence\Authorization\Tests\Roles;
 
 use Opulence\Authorization\Roles\Role;
 use Opulence\Authorization\Roles\RoleMembership;
